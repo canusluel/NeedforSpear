@@ -44,9 +44,6 @@ follows;
 As dev/null, we were using the private Git server as a version control system and most of our commits are located on
 that server.
 
-Also, I was the team lead on this project. I have followed Agile Development phases: Requirements, Design and
-Development for each sprint to perform task divisions between team members.
-
 Special thanks to all my team members for their commitment on this project.
 
 # Photos from Need for Spear
